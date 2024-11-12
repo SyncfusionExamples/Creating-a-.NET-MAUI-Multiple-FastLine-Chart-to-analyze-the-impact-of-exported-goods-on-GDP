@@ -353,4 +353,6 @@ After executing the previous code examples, the output will look like the follow
 
 ![Presentation1](https://github.com/SyncfusionExamples/Creating-a-.NET-MAUI-Multiple-FastLine-Chart-to-analyze-the-impact-of-exported-goods-on-GDP/assets/105496706/5c54d50f-8844-420e-a4b8-497773a6f7ec)
 
+For a step-by-step procedure, refer to the [blog post](https://www.syncfusion.com/blogs/post/maui-fastline-chart-export-vs-gdp).
+
 
